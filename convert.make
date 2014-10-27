@@ -28,6 +28,7 @@ projects[] = mailsystem
 projects[] = mimemail
 projects[] = node_clone
 projects[] = pathauto
+projects[] = smtp
 projects[] = strongarm
 projects[] = token
 projects[] = views
